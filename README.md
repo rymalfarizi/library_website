@@ -8,9 +8,11 @@ NIM  : 21060122120016
 npm install
 ```
 
-```shell npm ci```
+```shell 
+npm ci```
 
-```shell npm start```
+```shell
+npm start```
 
 ## Output
 Main Menu
