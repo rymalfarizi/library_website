@@ -4,16 +4,14 @@ Nama : Rayhan Muhammad Alfarizi
 NIM  : 21060122120016
 
 ## How to install
-```shell
-npm install
-```
-
+Install package yang dibutuhkan dengan menjalankannya pada terminal
 ```shell 
 npm ci
 ```
 
 Buat database Mysql pada PC Anda dengan nama database sesuai pada file lib/db.js
 
+Jalankan website dengan menjalankannya pada terminal
 ```shell
 npm start
 ```
