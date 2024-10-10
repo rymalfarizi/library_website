@@ -9,10 +9,12 @@ npm install
 ```
 
 ```shell 
-npm ci```
+npm ci
+```
 
 ```shell
-npm start```
+npm start
+```
 
 ## Output
 Main Menu
