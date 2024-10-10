@@ -9,9 +9,9 @@ Install package yang dibutuhkan dengan menjalankannya pada terminal
 npm ci
 ```
 
-Buat database Mysql pada PC Anda dengan nama database sesuai pada file lib/db.js
+Buat database Mysql terlebih dahulu pada PC Anda dengan nama database sesuai pada file lib/db.js
 
-Jalankan website dengan menjalankannya pada terminal
+Jalankan website dengan menjalankannya pada localhost Anda
 ```shell
 npm start
 ```
