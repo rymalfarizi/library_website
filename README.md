@@ -12,6 +12,8 @@ npm install
 npm ci
 ```
 
+Buat database Mysql pada PC Anda dengan nama database sesuai pada file lib/db.js
+
 ```shell
 npm start
 ```
