@@ -5,7 +5,9 @@ NIM  : 21060122120016
 
 ## How to install
 ```shell npm install```
+
 ```shell npm ci```
+
 ```shell npm start```
 
 ## Output
