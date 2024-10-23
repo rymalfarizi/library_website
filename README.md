@@ -3,16 +3,15 @@ Nama : Rayhan Muhammad Alfarizi
 
 NIM  : 21060122120016
 
-Clone repository
+Clone repository using terminal or git bash in any folder that you want
 ```
-git clone 
+git clone https://github.com/rymalfarizi/library_website.git
 ```
+## How to Run Website in your localhost
 
-## How to install
-
-### Install Mysql
+## Install Mysql
 Guide and Link Installation: https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/installing.html
-### Install Xampp
+## Install Xampp
 Link installation: https://www.apachefriends.org/download.html 
 
 ### How to make Database
