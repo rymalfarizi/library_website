@@ -26,10 +26,10 @@ Link installation: https://www.apachefriends.org/download.html
    ```
 5. Type:
    ```shell
-        mysql -u root -p
+   mysql -u root -p
    ```
 6. After the password appears, just press enter
-7. Type
+7. Type:
    ```shell
    CREATE DATABASE crud_sql
    ```
@@ -60,11 +60,14 @@ npm start
 ```
 
 ## Output
-Main Menu
+*Main Menu*
 ![image](https://github.com/user-attachments/assets/b0a77143-7564-4508-a63a-99dfd75b6a94)
 
 Books Catalog
 ![image](https://github.com/user-attachments/assets/0cf0cca9-da4e-4dbc-8bac-19b13bb33adb)
+
+Search books
+![image](https://github.com/user-attachments/assets/4199dd85-814d-4703-aec7-c1bb6d8863ac)
 
 Add book
 ![image](https://github.com/user-attachments/assets/eeb63c20-c22e-4fa9-adbf-c05268d7eef2)
