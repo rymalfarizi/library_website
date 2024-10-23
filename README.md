@@ -24,14 +24,12 @@ Link installation: https://www.apachefriends.org/download.html
    ```shell
    cd "C:\Program Files\xampp\mysql\bin"
    ```
-
-6. Type
+5. Type:
   ```shell
   mysql -u root -p
   ```
-
-5. After the password appears, just press enter
-6. Type
+6. After the password appears, just press enter
+7. Type
    ```shell
    CREATE DATABASE
    ```
