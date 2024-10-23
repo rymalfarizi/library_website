@@ -18,9 +18,9 @@ Link installation: https://www.apachefriends.org/download.html
 1. Open Xampp Control Panel
 2. Then, start module Apache and MySql
    ![image](https://github.com/user-attachments/assets/fe6b691a-c4fa-4341-931a-7c176a77085f)
-   
-4. Open terminal or command prompt
-5. Type:
+
+3. Open terminal or command prompt
+4. Type:
    ```shell
    cd "C:\Program Files\xampp\mysql\bin"
   ```
