@@ -54,10 +54,14 @@ npm ci
 ```
 
 ### How to run website
-To run on localhost, type in the terminal:
-```shell
-npm start
-```
+1. To run on localhost, type in the terminal:
+   ```shell
+   npm start
+   ```
+2. Then open link:
+   ```shell
+   http://localhost:3000/
+   ```
 
 ## Output
 **Main Menu**
