@@ -17,8 +17,8 @@ Link installation: https://www.apachefriends.org/download.html
 ### How to make Database
 1. Open Xampp Control Panel
 2. Then, start module Apache and MySql
-   ![image](https://github.com/user-attachments/assets/fe6b691a-c4fa-4341-931a-7c176a77085f)
 
+   ![image](https://github.com/user-attachments/assets/fe6b691a-c4fa-4341-931a-7c176a77085f)
 3. Open terminal or command prompt
 4. Type:
    ```shell
