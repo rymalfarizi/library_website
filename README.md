@@ -1,17 +1,58 @@
-## Library Website
+# Library Website
 Nama : Rayhan Muhammad Alfarizi
 
 NIM  : 21060122120016
 
+Clone repository
+```
+git clone 
+```
+
 ## How to install
-Install package yang dibutuhkan dengan menjalankannya pada terminal
+
+### Install Mysql
+Guide and Link Installation: https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/installing.html
+### Install Xampp
+Link installation: https://www.apachefriends.org/download.html 
+
+### How to make Database
+1. Open Xampp Control Panel
+2. Then, start module Apache and MySql
+   ![image](https://github.com/user-attachments/assets/fe6b691a-c4fa-4341-931a-7c176a77085f)
+3. Open terminal or command prompt
+4. Type:
+   ```shell
+   cd "C:\Program Files\xampp\mysql\bin"
+  ```
+  ```shell
+  mysql -u root -p
+  ```
+5. After the password appears, just press enter
+6. Type
+```shell
+CREATE DATABASE
+```
+```shell
+USE DATABASE
+```
+```shell
+CREATE TABLE `books` (
+  `id` int(11) NOT NULL PRIMARY KEY AUTO_INCREMENT,
+  `name` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `author` varchar(50) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  `updated_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+```
+
+### Install Package
+Install the required packages by running it in the terminal:
 ```shell 
 npm ci
 ```
 
-Buat database Mysql terlebih dahulu pada PC Anda dengan nama database sesuai pada file lib/db.js
-
-Jalankan website dengan menjalankannya pada localhost Anda
+### How to run website
+To run on localhost, type in the terminal:
 ```shell
 npm start
 ```
