@@ -60,19 +60,19 @@ npm start
 ```
 
 ## Output
-_Main Menu_
+**Main Menu**
 ![image](https://github.com/user-attachments/assets/b0a77143-7564-4508-a63a-99dfd75b6a94)
 
-Books Catalog
+**Books Catalog**
 ![image](https://github.com/user-attachments/assets/0cf0cca9-da4e-4dbc-8bac-19b13bb33adb)
 
-Search books
+**Search books**
 ![image](https://github.com/user-attachments/assets/4199dd85-814d-4703-aec7-c1bb6d8863ac)
 
-Add book
+**Add book**
 ![image](https://github.com/user-attachments/assets/eeb63c20-c22e-4fa9-adbf-c05268d7eef2)
 
-Edit book
+**Edit book**
 ![image](https://github.com/user-attachments/assets/ee2b5d9b-4e55-4e14-8e34-86b5b4992268)
 
 ## LICENCE
