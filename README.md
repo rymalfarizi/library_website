@@ -24,8 +24,7 @@ Link installation: https://www.apachefriends.org/download.html
    ```shell
    cd "C:\Program Files\xampp\mysql\bin"
   ```
-
-
+5. Type
   ```shell
   mysql -u root -p
   ```
