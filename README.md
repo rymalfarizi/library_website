@@ -22,9 +22,9 @@ Link installation: https://www.apachefriends.org/download.html
 3. Open terminal or command prompt
 4. Type:
    ```shell
-   cd "C:\Program Files\xampp\mysql\bin"
-  ```
-5. Type
+   cd "C:\Program Files\xampp\mysql\bin" ```
+
+6. Type
   ```shell
   mysql -u root -p
   ```
