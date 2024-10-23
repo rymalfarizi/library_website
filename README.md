@@ -25,18 +25,20 @@ Link installation: https://www.apachefriends.org/download.html
    cd "C:\Program Files\xampp\mysql\bin"
   ```
 
+
   ```shell
   mysql -u root -p
   ```
+
 5. After the password appears, just press enter
 6. Type
-```shell
-CREATE DATABASE
-```
-```shell
-USE DATABASE
-```
-```shell
+   ```shell
+   CREATE DATABASE
+   ```
+   ```shell
+   USE DATABASE
+   ```
+   ```shell
 CREATE TABLE `books` (
   `id` int(11) NOT NULL PRIMARY KEY AUTO_INCREMENT,
   `name` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
