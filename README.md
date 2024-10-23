@@ -60,7 +60,7 @@ npm start
 ```
 
 ## Output
-*Main Menu*
+_Main Menu_
 ![image](https://github.com/user-attachments/assets/b0a77143-7564-4508-a63a-99dfd75b6a94)
 
 Books Catalog
