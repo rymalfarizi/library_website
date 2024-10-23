@@ -25,9 +25,9 @@ Link installation: https://www.apachefriends.org/download.html
    cd "C:\Program Files\xampp\mysql\bin"
    ```
 5. Type:
-  ```shell
+   ```shell
         mysql -u root -p
-  ```
+   ```
 6. After the password appears, just press enter
 7. Type
    ```shell
@@ -45,7 +45,7 @@ Link installation: https://www.apachefriends.org/download.html
      `updated_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
    ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
    ```
-8. Note: You can change database name but you have to change database name in file lin/db.js in variable connection
+   Note: You can change database name but you have to change database name in file lin/db.js in variable connection
 
 ### Install Package
 Install the required packages by running it in the terminal:
