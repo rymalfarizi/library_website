@@ -1,10 +1,6 @@
 # Library Website
 This project is a web-based Library Book Management System designed to handle the CRUD (Create, Read, Update, Delete) and search operations for books in a library. The system is built using Node.js as the backend runtime environment, Express.js as the web framework, and MySQL as the database for storing book data.
 
-Nama : Rayhan Muhammad Alfarizi
-
-NIM  : 21060122120016
-
 Clone repository using terminal or git bash in any folder that you want
 ```
 git clone https://github.com/rymalfarizi/library_website.git
