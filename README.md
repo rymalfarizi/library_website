@@ -22,7 +22,8 @@ Link installation: https://www.apachefriends.org/download.html
 3. Open terminal or command prompt
 4. Type:
    ```shell
-   cd "C:\Program Files\xampp\mysql\bin" ```
+   cd "C:\Program Files\xampp\mysql\bin"
+   ```
 
 6. Type
   ```shell
@@ -38,14 +39,14 @@ Link installation: https://www.apachefriends.org/download.html
    USE DATABASE
    ```
    ```shell
-CREATE TABLE `books` (
-  `id` int(11) NOT NULL PRIMARY KEY AUTO_INCREMENT,
-  `name` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `author` varchar(50) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
-  `updated_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
-```
+   CREATE TABLE `books` (
+     `id` int(11) NOT NULL PRIMARY KEY AUTO_INCREMENT,
+     `name` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
+     `author` varchar(50) COLLATE utf8mb4_unicode_ci NOT NULL,
+     `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+     `updated_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+   ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+   ```
 
 ### Install Package
 Install the required packages by running it in the terminal:
